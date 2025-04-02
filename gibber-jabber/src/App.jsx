@@ -22,7 +22,7 @@ Passwordset(pass)
   return (
     <>
       <div className="w-full max-w-md mx-auto shadow-md rounded-lg px-4 py-8 my-8 text-orange-500 bg-white bg-center">
-      <h1 className="text-2xl text-center mb-4 place-items-center">Password Generator</h1>
+      <h1 className="text-2xl text-center mb-4">Password Generator</h1>
       <div className="flex shadow rounded-lg overflow-hidden mb-4">
         <input
           type="text"
